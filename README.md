@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Mohamed&thinsp;El&thinsp;Hedi+Hamdi!;" />
 </h1>
 
-<h4>I'm a passionate software developer from Tunisia. Thank You for taking the time to view my GitHub Profile 😄</h4>
+<h4>I'm a passionate software developer from Tunisia. Thank you for taking the time to view my GitHub Profile 😄</h4>
 
 <br/>
 <hr/>
