@@ -1,6 +1,6 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=mohamedhedi1.mohamedhedi1" />
 <h1 align="center">
-  <img src="https://readme-typing-svg.demolab.com/?font=Righteous&size=32&center=true&vCenter=true&width=600&height=70&duration=3500&lines=Hi+there!+👋;I'm+Mohamed+El+Hedi+Hamdi;Software+Engineer+%7C+Full-Stack+Developer" />
+ 
 </h1>
 <p align="center">
   <a href="https://www.linkedin.com/in/mohamedhedi1"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" /></a>
